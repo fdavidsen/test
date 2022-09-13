@@ -1,0 +1,22 @@
+
+
+Add theme licensing, do minor bug fix, formatting, and refactoring
+
+Feat: Add theme licensing
+Feat: Blur images if license is not active
+Feat: Add theme `trial version`
+Feat: Add `theme is inactive` pop up
+
+Fix: Use `width auto` on service and fact number icon images
+Fix: Update selection highlight background color
+Fix: Add check to only `addEventListener` when scroll-to-top button exists
+Fix: Remove srcset that cause image and background image on setting page not changing
+
+Refactor: Add CSS style string generator function
+Refactor: Move starter contents import handler to `Wing_Starter_Contents_Controller` class
+Refactor: Use run() instead of constructor to run starter contents importer
+Refactor: Load `inc` files after theme setup
+
+Docs: Update theme URI
+
+Style: Do other minor code formatting
