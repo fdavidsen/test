@@ -17,4 +17,4 @@ Add theme licensing, do minor bug fix, formatting, and refactoring
 
 * Docs: Update theme URI
 
-* Style: Do other minor code formatting
+* Style: Do some minor code formatting
